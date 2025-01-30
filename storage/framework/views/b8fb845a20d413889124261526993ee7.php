@@ -1,0 +1,2 @@
+<meta name="lang-value" content="<?php echo e($settings->lang); ?>">
+<meta name="dir-value" content="<?php echo e($settings->dir); ?>"><?php /**PATH /Users/mohammadmahbub/Downloads/Alla_Auto_Parts/www/resources/views/layouts/lang-tag.blade.php ENDPATH**/ ?>

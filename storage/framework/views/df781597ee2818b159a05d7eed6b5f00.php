@@ -1,0 +1,1 @@
+<div class="form-text"><?php echo e($slot); ?></div><?php /**PATH /Users/sayemh/Downloads/Alla_Auto_Parts/www/resources/views/components/form-text.blade.php ENDPATH**/ ?>
